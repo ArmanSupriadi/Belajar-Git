@@ -1,5 +1,5 @@
 Mencoba push ke Git
-
+$$$$$$
 Push Sudah berhasil 
-
+$$$$$$
 test diff
