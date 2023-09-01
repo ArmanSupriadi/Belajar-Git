@@ -3,3 +3,5 @@ coba push repository ke 2
 Push coba2 sudah berhasil di tambahkan
 ------------
 tambah lagi weh lah 
+---------
+coba nge merge
